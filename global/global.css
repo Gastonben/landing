@@ -38,6 +38,7 @@
     letter-spacing: 5px;
     font-weight: 600;
     text-transform: uppercase;
+    user-select: none;
 }
 
 .nav,
