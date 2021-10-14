@@ -51,9 +51,18 @@ footer > div > span{
 
 main > h2{
     text-transform: uppercase;
-    color:gray;
     letter-spacing: 5px;
 }
+
+.content-1 > p,
+.content-2 > p,
+.down-content,
+main > h2,
+.card > span,
+.card > p {
+  color: grey;
+}
+
 
 .top > span,
   footer > h3 {
